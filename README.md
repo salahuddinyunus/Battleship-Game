@@ -1,6 +1,6 @@
 #Salahuddin Yunus
 #Python Battleship Game
-#User Guide
+User Guide
 
 - This game mainly relies on luck.
 - You must shoot down the enemy ship before running out of shots/tries. If you run out, you lose.
