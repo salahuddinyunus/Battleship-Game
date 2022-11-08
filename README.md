@@ -1,5 +1,6 @@
 #Salahuddin Yunus
 #Python Battleship Game
+
 User Guide
 
 - This game mainly relies on luck.
