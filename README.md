@@ -4,6 +4,7 @@ Python Battleship Game (v1.0)
 
 User Guide
 
+
 - This game mainly relies on luck.
 - You must shoot down the enemy ship before running out of shots/tries. If you run out, you lose.
 - At the beginning, you are given the choice to ask for help and if you want to play or not.
